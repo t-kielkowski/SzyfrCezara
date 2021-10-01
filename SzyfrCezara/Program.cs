@@ -47,6 +47,10 @@ namespace SzyfrCezara
             int klucz;
             int counter = 0;
 
+
+            string a, b, c;
+            double s = 100.22;
+
             do
             {
                 klucz = Key(counter);
